@@ -72,5 +72,5 @@ See the [official license text](https://creativecommons.org/licenses/by-nc-nd/4.
 *Commercial use of this code is strictly prohibited without prior written consent from the author.*
 
 ---
-**Maintained by:** [drSigPro (Mahesh Raveendranatha Panicker)](https://github.com/drSigPro)  
+**Maintained by:** [Mahesh Raveendranatha Panicker](https://github.com/drSigPro)  
 *For collaborations or inquiries, visit [PulseEcho](https://www.pulseecho.in/).*
